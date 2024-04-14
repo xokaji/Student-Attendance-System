@@ -1,0 +1,11 @@
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.exe.config
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.exe
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.pdb
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.csproj.AssemblyReference.cache
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form1.resources
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Properties.Resources.resources
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.csproj.GenerateResource.cache
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.csproj.CoreCompileInputs.cache
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.exe
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.pdb
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form2.resources
