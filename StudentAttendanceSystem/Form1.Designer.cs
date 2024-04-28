@@ -47,22 +47,26 @@
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.button2 = new System.Windows.Forms.Button();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
+            this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(800, 57);
+            this.panel1.Size = new System.Drawing.Size(861, 57);
             this.panel1.TabIndex = 0;
             // 
             // label1
@@ -71,11 +75,11 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Calibri", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(190, 9);
+            this.label1.Location = new System.Drawing.Point(229, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(399, 40);
+            this.label1.Size = new System.Drawing.Size(414, 40);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Student Attendance System";
+            this.label1.Text = "Student Attendance Marking";
             // 
             // groupBox1
             // 
@@ -94,12 +98,12 @@
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
-            this.groupBox1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.groupBox1.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.groupBox1.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.groupBox1.Location = new System.Drawing.Point(61, 79);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(681, 257);
+            this.groupBox1.Size = new System.Drawing.Size(728, 257);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Attendance Information";
@@ -150,6 +154,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(246, 26);
             this.textBox1.TabIndex = 5;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label6
             // 
@@ -214,8 +219,9 @@
             // btnAdd
             // 
             this.btnAdd.BackColor = System.Drawing.Color.White;
+            this.btnAdd.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAdd.Location = new System.Drawing.Point(61, 348);
+            this.btnAdd.Location = new System.Drawing.Point(30, 17);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(92, 57);
             this.btnAdd.TabIndex = 2;
@@ -226,8 +232,9 @@
             // btnDelete
             // 
             this.btnDelete.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnDelete.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDelete.Location = new System.Drawing.Point(197, 348);
+            this.btnDelete.Location = new System.Drawing.Point(334, 17);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(110, 57);
             this.btnDelete.TabIndex = 3;
@@ -238,8 +245,9 @@
             // btnClear
             // 
             this.btnClear.BackColor = System.Drawing.Color.White;
+            this.btnClear.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClear.Location = new System.Drawing.Point(344, 348);
+            this.btnClear.Location = new System.Drawing.Point(489, 17);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(92, 57);
             this.btnClear.TabIndex = 4;
@@ -253,36 +261,60 @@
             this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.GridColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dataGridView1.Location = new System.Drawing.Point(12, 426);
+            this.dataGridView1.Location = new System.Drawing.Point(61, 489);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(777, 161);
+            this.dataGridView1.Size = new System.Drawing.Size(728, 173);
             this.dataGridView1.TabIndex = 5;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.White;
+            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(178, 17);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(105, 57);
+            this.button2.TabIndex = 6;
+            this.button2.Text = "Update";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(162)))), ((int)(((byte)(173)))), ((int)(((byte)(177)))));
+            this.panel2.Controls.Add(this.btnAdd);
+            this.panel2.Controls.Add(this.button2);
+            this.panel2.Controls.Add(this.btnClear);
+            this.panel2.Controls.Add(this.btnDelete);
+            this.panel2.Location = new System.Drawing.Point(120, 369);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(612, 94);
+            this.panel2.TabIndex = 7;
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Silver;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(650, 348);
+            this.button1.Font = new System.Drawing.Font("Calibri", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.Black;
+            this.button1.Location = new System.Drawing.Point(787, 8);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(92, 57);
-            this.button1.TabIndex = 6;
+            this.button1.Size = new System.Drawing.Size(62, 46);
+            this.button1.TabIndex = 1;
             this.button1.Text = "Back";
-            this.button1.UseVisualStyleBackColor = false;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_2);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnableAllowFocusChange;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(800, 599);
-            this.Controls.Add(this.button1);
+            this.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.BackgroundImage = global::StudentAttendanceSystem.Properties.Resources.BeFunky_photo__2_;
+            this.ClientSize = new System.Drawing.Size(861, 696);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.btnClear);
-            this.Controls.Add(this.btnDelete);
-            this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
@@ -294,6 +326,7 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -318,6 +351,8 @@
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnClear;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Button button1;
     }
 }

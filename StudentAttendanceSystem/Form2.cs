@@ -48,13 +48,13 @@ namespace StudentAttendanceSystem
                     username = txt_username.Text;
                     password = txt_password.Text;
 
-                    Form1 form2 = new Form1();
-                    form2.Show();
+                    Form4 form4 = new Form4();
+                    form4.Show();
                     this.Hide();
                 }
                 else
                 {
-                    MessageBox.Show("Invalid Details!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Invalid Username or Password!", "Error Login", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     txt_password.Clear();
                     txt_username.Clear();
 
@@ -92,6 +92,11 @@ namespace StudentAttendanceSystem
             {
                 this.Show();
             }
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

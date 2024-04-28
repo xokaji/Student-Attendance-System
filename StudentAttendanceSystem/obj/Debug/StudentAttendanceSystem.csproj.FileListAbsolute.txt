@@ -9,3 +9,10 @@ F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\Stud
 F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.exe
 F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.pdb
 F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form2.resources
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.exe.manifest
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.application
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.TrustInfo.xml
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.exe.manifest
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.application
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form3.resources
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form4.resources
