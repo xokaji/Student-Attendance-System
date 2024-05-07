@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StudentAttendanceSystem.exe" size="42554368">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StudentAttendanceSystem.exe" size="89818624">
       <assemblyIdentity name="StudentAttendanceSystem" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tVw5p8VH0kTnB9eWS9Bat5tthWL3HmBTDsN7FmCje2M=</dsig:DigestValue>
+        <dsig:DigestValue>pm3ehlyRODC07O4j/jIJ3CmjOk98CUypB5xrtANyXSA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

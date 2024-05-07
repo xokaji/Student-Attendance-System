@@ -98,5 +98,19 @@ namespace StudentAttendanceSystem
         {
 
         }
+
+        private void txt_password_TextChanged(object sender, EventArgs e)
+        {
+            txt_password.UseSystemPasswordChar = true;
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Form7 f7 = new Form7();
+            f7.Show();
+            this.Hide();
+        }
+
+        
     }
 }

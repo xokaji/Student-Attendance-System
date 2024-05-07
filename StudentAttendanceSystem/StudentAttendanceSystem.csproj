@@ -95,6 +95,24 @@
     <Compile Include="Form4.Designer.cs">
       <DependentUpon>Form4.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -108,6 +126,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form4.resx">
       <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -180,6 +207,69 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\BeFunky-photo %284%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon-in-trendy-flat-style-isolated-on-grey-background-user-symbol-for-your-web-site-design-logo-app-ui-illustration-eps10-free-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %288%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %286%293.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %283%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %283%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %287%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %284%293.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %284%294.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %285%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %284%295.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\raf,360x360,075,t,fafafa ca443f4786.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\122.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeFunky-photo %286%294.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon-in-trendy-flat-style-isolated-on-grey-background-user-symbol-for-your-web-site-design-logo-app-ui-illustration-eps10-free-vector1.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

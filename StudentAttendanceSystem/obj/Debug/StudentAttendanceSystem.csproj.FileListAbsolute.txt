@@ -16,3 +16,6 @@ F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\Stud
 F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.application
 F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form3.resources
 F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form4.resources
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form5.resources
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form7.resources
+F:\Visual Studios\StudentAttendanceSystem\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form6.resources

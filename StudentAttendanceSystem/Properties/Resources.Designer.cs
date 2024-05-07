@@ -63,6 +63,36 @@ namespace StudentAttendanceSystem.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _12 {
+            get {
+                object obj = ResourceManager.GetObject("12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _121 {
+            get {
+                object obj = ResourceManager.GetObject("121", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _122 {
+            get {
+                object obj = ResourceManager.GetObject("122", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap BeFunky_photo {
             get {
                 object obj = ResourceManager.GetObject("BeFunky-photo", resourceCulture);
@@ -76,6 +106,26 @@ namespace StudentAttendanceSystem.Properties {
         internal static System.Drawing.Bitmap BeFunky_photo__1_ {
             get {
                 object obj = ResourceManager.GetObject("BeFunky-photo (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__1_1 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (1)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__1_2 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (1)2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,6 +163,26 @@ namespace StudentAttendanceSystem.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__3_1 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (3)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__3_2 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (3)2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap BeFunky_photo__4_ {
             get {
                 object obj = ResourceManager.GetObject("BeFunky-photo (4)", resourceCulture);
@@ -143,9 +213,49 @@ namespace StudentAttendanceSystem.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__4_3 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (4)3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__4_4 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (4)4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__4_5 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (4)5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap BeFunky_photo__5_ {
             get {
                 object obj = ResourceManager.GetObject("BeFunky-photo (5)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__5_1 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (5)1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -176,6 +286,108 @@ namespace StudentAttendanceSystem.Properties {
         internal static System.Drawing.Bitmap BeFunky_photo__6_2 {
             get {
                 object obj = ResourceManager.GetObject("BeFunky-photo (6)2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__6_3 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (6)3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__6_4 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (6)4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__7_ {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (7)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__7_1 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (7)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__8_ {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (8)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BeFunky_photo__8_1 {
+            get {
+                object obj = ResourceManager.GetObject("BeFunky-photo (8)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap raf_360x360_075_t_fafafa_ca443f4786 {
+            get {
+                object obj = ResourceManager.GetObject("raf,360x360,075,t,fafafa ca443f4786", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap user_icon_in_trendy_flat_style_isolated_on_grey_background_user_symbol_for_your_web_site_design_logo_app_ui_illustration_eps10_free_vector {
+            get {
+                object obj = ResourceManager.GetObject("user-icon-in-trendy-flat-style-isolated-on-grey-background-user-symbol-for-your-w" +
+                        "eb-site-design-logo-app-ui-illustration-eps10-free-vector", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap user_icon_in_trendy_flat_style_isolated_on_grey_background_user_symbol_for_your_web_site_design_logo_app_ui_illustration_eps10_free_vector1 {
+            get {
+                object obj = ResourceManager.GetObject("user-icon-in-trendy-flat-style-isolated-on-grey-background-user-symbol-for-your-w" +
+                        "eb-site-design-logo-app-ui-illustration-eps10-free-vector1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

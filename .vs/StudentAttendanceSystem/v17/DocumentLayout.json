@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "F:\\Visual Studios\\StudentAttendanceSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|f:\\visual studios\\studentattendancesystem\\studentattendancesystem\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|f:\\visual studios\\studentattendancesystem\\studentattendancesystem\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|f:\\visual studios\\studentattendancesystem\\studentattendancesystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|f:\\visual studios\\studentattendancesystem\\studentattendancesystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|F:\\Visual Studios\\StudentAttendanceSystem\\studentattendancesystem\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|f:\\visual studios\\studentattendancesystem\\studentattendancesystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BE0767F-0419-411A-8F9A-71114384311A}|StudentAttendanceSystem\\StudentAttendanceSystem.csproj|solutionrelative:studentattendancesystem\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,19 +66,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form2.cs",
-              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form2.cs",
-              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form2.cs",
-              "RelativeToolTip": "StudentAttendanceSystem\\Form2.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAkwEEAAAApAAAA",
+              "DocumentIndex": 4,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form6.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form6.cs",
+              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form6.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceSystem\\Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T16:21:52.605Z",
+              "WhenOpened": "2024-05-07T04:08:52.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form3.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form3.cs",
+              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form3.cs",
+              "RelativeToolTip": "StudentAttendanceSystem\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T10:16:42.153Z",
               "EditorCaption": ""
             },
             {
@@ -71,19 +107,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form3.cs",
-              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form3.cs",
-              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form3.cs [Design]",
-              "RelativeToolTip": "StudentAttendanceSystem\\Form3.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form6.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form6.cs",
+              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form6.cs",
+              "RelativeToolTip": "StudentAttendanceSystem\\Form6.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAvwGUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T13:57:47.641Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-07T09:29:03.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form7.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form7.cs",
+              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form7.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceSystem\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:59:06.192Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form2.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form2.cs",
+              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form2.cs",
+              "RelativeToolTip": "StudentAttendanceSystem\\Form2.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAADgv2cAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:21:52.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form7.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form7.cs",
+              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form7.cs",
+              "RelativeToolTip": "StudentAttendanceSystem\\Form7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:57:08.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form1.cs",
               "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form1.cs",
@@ -95,20 +170,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form1.cs",
-              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form1.cs",
-              "RelativeToolTip": "StudentAttendanceSystem\\Form1.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAA7wCQAAAA9AAAA",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form3.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form3.cs",
+              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form3.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceSystem\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T18:24:23.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T20:30:16.737Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form4.cs",
               "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form4.cs",
@@ -120,20 +194,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form3.cs",
-              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form3.cs",
-              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form3.cs",
-              "RelativeToolTip": "StudentAttendanceSystem\\Form3.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAA2AAAA",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form5.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form5.cs",
+              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form5.cs [Design]",
+              "RelativeToolTip": "StudentAttendanceSystem\\Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T10:16:42.153Z",
+              "WhenOpened": "2024-05-03T18:53:15.689Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form2.Designer.cs",
+              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form2.Designer.cs",
+              "RelativeToolTip": "StudentAttendanceSystem\\Form2.Designer.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAkwJ4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:17:57.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form5.cs",
+              "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form5.cs",
+              "ToolTip": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form5.cs",
+              "RelativeToolTip": "StudentAttendanceSystem\\Form5.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwCUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:08:38.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Form4.cs",
               "DocumentMoniker": "F:\\Visual Studios\\StudentAttendanceSystem\\StudentAttendanceSystem\\Form4.cs",
               "RelativeDocumentMoniker": "StudentAttendanceSystem\\Form4.cs",
